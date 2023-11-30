@@ -1,0 +1,5 @@
+https://agit.ai/leevi/duo/raw/branch/master/libs/tiyu.json
+https://agit.ai/leevi/duo/raw/branch/master/libs/meinv.json
+https://agit.ai/leevi/duo/raw/branch/master/libs/哔哩直播.js
+https://agit.ai/leevi/duo/raw/branch/master/libs/短视频聚合.json
+https://jihulab.com/iduoduo/xduo/-/raw/main/libs/aishang.js
